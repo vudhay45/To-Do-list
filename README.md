@@ -9,7 +9,7 @@
 ## installation
 
 ```
-git clone https://github.com/poornesh-chenna/Todo-list.git
+git clone https://github.com/vudhay45/To-Do-list.git
 
 npm install
 
